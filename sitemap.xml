@@ -3,10 +3,10 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/</loc>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://example.com/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://gta6-countdown-seven.vercel.app/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gta6-countdown-seven.vercel.app/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://gta6-countdown-seven.vercel.app/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://gta6-countdown-seven.vercel.app/"/>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
